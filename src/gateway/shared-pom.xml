@@ -87,11 +87,11 @@
                 <apigee.env>test</apigee.env>
                 <apigee.hosturl>https://api.enterprise.apigee.com</apigee.hosturl>
                 <apigee.apiversion>v1</apigee.apiversion>
-                <apigee.org>${org}</apigee.org>
-                <apigee.username>${username}</apigee.username>
-                <apigee.password>${password}</apigee.password>
-                <!--<apigee.options>${options}</apigee.options>
-                <apigee.revision>${revision}</apigee.revision> --> <!-- used while trying to update revision, use when option=update only -->
+                <apigee.org>ishantandon</apigee.org>
+                <apigee.username>ishan.tandon@tcs.com</apigee.username>
+                <apigee.password>Tcs@1234</apigee.password>
+               
+                <apigee.revision>1</apigee.revision><!-- used while trying to update revision, use when option=update only -->
                 <!--apigee.override.delay>10</apigee.override.delay-->
                 <!--apigee.delay>1000</apigee.delay-->
             </properties>
@@ -105,11 +105,11 @@
                 <apigee.env>prod</apigee.env>
                 <apigee.hosturl>https://api.enterprise.apigee.com</apigee.hosturl>
                 <apigee.apiversion>v1</apigee.apiversion>
-                <apigee.org>${org}</apigee.org>
-                <apigee.username>${username}</apigee.username>
-                <apigee.password>${password}</apigee.password>
-                <!--<apigee.options>${options}</apigee.options>
-                <apigee.revision>${revision}</apigee.revision> --><!-- used while trying to update revision, use when option=update only -->
+               <apigee.org>ishantandon</apigee.org>
+                <apigee.username>ishan.tandon@tcs.com</apigee.username>
+                <apigee.password>Tcs@1234</apigee.password>
+               
+                <apigee.revision>1</apigee.revision><!-- used while trying to update revision, use when option=update only -->
                 <!--apigee.override.delay>10</apigee.override.delay-->
                 <!--apigee.delay>1000</apigee.delay-->
             </properties>
